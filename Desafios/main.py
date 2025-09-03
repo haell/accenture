@@ -1,4 +1,3 @@
-import random
 
 # Instruções:
 # 1 - Entender a lógica 
@@ -6,6 +5,8 @@ import random
 # 3 - Fazer rodar o código na IDE
 # Obs: Não é permitido nenhum tipo de consulta.
 # Inicia a classe do jogo da forca
+import random
+
 class JogoForca():
     # inicializa a lista de palavras
     def __init__(self):
